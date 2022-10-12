@@ -49,7 +49,7 @@ Green bars shows us negative tweets and obviously negatives are really higher th
 
 ## Negative Reasons
 
-Screen Shot 2022-10-12 at 10.46.17 AM
+<img width="704" alt="Screen Shot 2022-10-12 at 10 46 17 AM" src="https://user-images.githubusercontent.com/5207341/195300310-43f29274-0048-45cf-9d54-c3a47488af31.png">
 
 Customer Service Issue and Late Flight leads for general negative reasons from customer reviews.
 
