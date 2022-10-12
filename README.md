@@ -34,8 +34,8 @@ neutral      0.211680
 positive     0.161407
 
 ## Tweet Counts per Airline Companies
+<img width="840" alt="Screen Shot 2022-10-12 at 10 43 11 AM" src="https://user-images.githubusercontent.com/5207341/195299031-d24d30b4-e9d0-4888-aef4-84d43a37cae6.png">
 
-![Count_per_airlines](https://user-images.githubusercontent.com/5207341/195298660-813aa50c-7a8b-4bed-9d7b-8021a8ebf29d.png)
 
 This graph basically shows us tweet counts per airline companies depend on our data.
 
