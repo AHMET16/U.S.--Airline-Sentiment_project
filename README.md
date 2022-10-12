@@ -49,14 +49,14 @@ Green bars shows us negative tweets and obviously negatives are really higher th
 
 ## Negative Reasons
 
-<img width="704" alt="Screen Shot 2022-10-12 at 10 46 17 AM" src="https://user-images.githubusercontent.com/5207341/195300310-43f29274-0048-45cf-9d54-c3a47488af31.png">
 
 Customer Service Issue and Late Flight leads for general negative reasons from customer reviews.
 
 ## Negative Reasons per Airline Companies
 
 
-![Negative Reasons per Airline Companies](https://user-images.githubusercontent.com/5207341/195295493-e9bfbaec-52a5-4e16-91ec-fc8c2643b47d.png)
+![Negative Reasons per Airline Companies]
+(https://user-images.githubusercontent.com/5207341/195295493-e9bfbaec-52a5-4e16-91ec-fc8c2643b47d.png)
 
 First of all Customer Service Issue leads for most of airline companies for negative reason as expected from previous graph. United airlines second problem `Late Flight` apperantly big problem for this airline for count compare to other airlines. And also lost luggage problem is higher at the United airlines than others.
 
