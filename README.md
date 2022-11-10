@@ -102,6 +102,11 @@ Last Model visuals;
 ![sequential](https://user-images.githubusercontent.com/5207341/195297627-67f8a2a8-c881-4851-bc7d-6ef834a1fa88.png)
 
 ![confusion matrix](https://user-images.githubusercontent.com/5207341/195297700-3032ff2c-48e1-4e71-bb14-8c2f6202b971.png)
+## Conclusion
+With final model, prediction accuracy on test set is %80. What this mean is with the customer review text my model will predict 80/100 true positive, true neutral or true negative. 8 of 100 tweets is going to be false for true positive, neutral or negatives(as example: 'liked' tweet at prediction section predicted negative which is false negative).
+
+Used accuracy score to evaluation metric because target variables(sentiment) positive,negative and neutral classes imbalanced and all of them equal important for us. We are not focusing just one of them and wanted to accuracy of each of them.
+
 
 ## Future Step
 
